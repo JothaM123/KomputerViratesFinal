@@ -578,7 +578,7 @@ function draw() {
 
 
             setTimeout(() => {
-                window.location.reload()
+                 window.location.href = "index.html"
             }, 1000);
 
 
