@@ -599,7 +599,7 @@ function draw() {
         bgmusic.pause()
 
         setTimeout(() => {
-            window.location.reload()
+            window.location.href = "index.html"
         }, 2500)
 
 
